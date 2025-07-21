@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Third-year Computer Science student at AAST (dual degree with University of Northampton), GPA: 3.56<br><br>💻 Passionate about mobile app development, AI, and full-stack web solutions<br><br>🧠 Strong in algorithms and competitive programming<br><br>🚀 Currently focused on advanced Flutter, machine learning, and systems programming<br><br>🧩 Solved 200+ problems on Codeforces and active on LeetCode<br><br>
+🎓 Third-year Computer Science student at AAST (dual degree with University of Northampton), GPA: 3.57<br><br>💻 Passionate about mobile app development, AI, and full-stack web solutions<br><br>🧠 Strong in algorithms and competitive programming<br><br>🚀 Currently focused on advanced Flutter, machine learning, and systems programming<br><br>🧩 Solved 200+ problems on Codeforces and active on LeetCode<br><br>
 
 
 ## 🌐 Socials:
