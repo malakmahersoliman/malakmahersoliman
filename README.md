@@ -39,7 +39,7 @@
   Flutter app enhancing café customer experience with **Firebase Authentication** and modern UI.  
   🎥 [Watch Demo](https://youtube.com/shorts/th72EZcCRW4?feature=shared)
 
-- 📚 [**RecipeBox**](https://github.com/malakmahersoliman/RecipeBox)  
+- 📚 [**RecipeBox**](https://github.com/KarimmYasser/recipe-box)  
   Jetpack Compose recipe manager with **Room**, **Retrofit**, and **MVVM architecture**.
 
 - 🎮 [**Chicken Invaders AI**](https://github.com/noah-mclain/fera5-invaders)  
