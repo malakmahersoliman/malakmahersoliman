@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Malak Maher**
 
-🎓 Final-year Computer Science student at AAST Smart Village (Dual Degree with the University of Northampton).  
+🎓 Final-year Computer Science student at AAST Smart Village (Dual Degree with the University of Northampton).
 💡 Passionate about **mobile app development**, **fintech innovation**, and **AI-driven solutions**.  
 💻 Experienced in **Kotlin**, **Flutter**, **Jetpack Compose**, **Firebase**, and **Machine Learning**.
 
@@ -57,7 +57,7 @@
 
 ## 🌱 About Me
 - 💼 Interned at **Banque Misr**, **eKhales**, and **CIB**, focusing on Android, fintech, and system design.  
-- 🧠 Completed advanced **Machine Learning training** (NTI, 98.5%).  
+- 🧠 Completed  **Machine Learning training** (NTI, 98.5%).  
 - 🎯 Goal: To bridge **technology, data, and business** through intelligent mobile solutions.  
 - 📫 Reach me: [malakmaher272@gmail.com](mailto:malakmaher272@gmail.com)
 
