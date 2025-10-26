@@ -33,7 +33,7 @@
 ## 🚀 Featured Projects
 
 - 🧾 [**MilkCheque App**](https://github.com/malakmahersoliman/MilkCheque)  
-  Digital menu & split-bill Android app using **Kotlin**, **Jetpack Compose**, **Hilt**, and **Room**.
+  Digital menu & split-bill Android app using **Kotlin**, **Jetpack Compose**, **Hilt**.
 
 - ☕ [**Coffee Shop App**](https://github.com/malakmahersoliman/coffee_shop)  
   Flutter app enhancing café customer experience with **Firebase Authentication** and modern UI.  
