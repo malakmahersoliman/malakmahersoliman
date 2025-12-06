@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Malak Maher**
 
-🎓 Final-year Computer Science student at AAST Smart Village (Dual Degree with the University of Northampton).  
+🎓 Senior Computer Science student at AAST Smart Village (Dual Degree with the University of Northampton).  
 💡 Passionate about **mobile app development**, **fintech innovation**, and **AI-driven solutions**.  
 💻 Experienced in **Kotlin**, **Flutter**, **Jetpack Compose**, **Firebase**, and **Machine Learning**.
 
