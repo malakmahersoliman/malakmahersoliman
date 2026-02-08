@@ -1,6 +1,6 @@
-<!-- 🌟 Professional GitHub Profile for Malak Maher -->
+<!-- Professional GitHub Profile for Malak Maher -->
 
-# 👋 Hi, I'm **Malak Maher**
+# Hi, I'm **Malak Maher**
 
 🎓 Senior Computer Science student at AAST Smart Village (Dual Degree with the University of Northampton).  
 💡 Passionate about **mobile app development**, **fintech innovation**, and **AI-driven solutions**.  
@@ -10,19 +10,19 @@
 
 ## 💻 Tech Stack
 
-**📱 Mobile Development:**  
+** Mobile Development:**  
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%23009688.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
-**🤖 AI & Data Science:**  
+** AI & Data Science:**  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**🛠️ Software Engineering & Tools:**  
+** Software Engineering & Tools:**  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 - 🧾 [**MilkCheque App**](https://github.com/malakmahersoliman/MilkCheque)  
   Digital menu & split-bill Android app using **Kotlin**, **Jetpack Compose**, **Hilt**.
