@@ -1,116 +1,106 @@
-<!-- Professional GitHub Profile for Malak Maher -->
+# Malak Maher
 
-# Hi, I'm Malak Maher
+Final-year Computer Science student — AAST Smart Village  
+Dual Degree with the University of Northampton  
+GPA: 3.57 / 4.0  
 
-🎓 Senior Computer Science Student – AAST Smart Village  
-🎓 Dual Degree with the University of Northampton  
+I enjoy writing code and understanding systems deeply.
 
-I build **intelligent mobile systems** at the intersection of **fintech, AI, and scalable software architecture**.  
-Focused on turning complex technical systems into practical, real-world solutions.
+My work spans mobile engineering, applied machine learning,
+and automation-driven problem solving — with a strong interest
+in fintech and intelligent system design.
 
----
-
-## 🚀 Core Focus Areas
-
-- 📱 Mobile Application Development (Android & Flutter)
-- 💳 FinTech & Secure Transaction Systems
-- 🤖 AI & Machine Learning Applications
-- 🏗 Clean Architecture & Scalable System Design
+I do not treat development as syntax — I treat it as architecture.
 
 ---
 
-## 💻 Technical Stack
+## Engineering Focus
 
-### 📱 Mobile Development
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%23009688.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white)
-
-**Architecture & Patterns:** MVVM, Clean Architecture, Dependency Injection (Hilt), REST API Integration, Room Database
+• Mobile system development (Android & Flutter)  
+• Machine learning implementation & reinforcement learning  
+• Automation & intelligent workflows  
+• Clean architecture & scalable system design  
+• Secure fintech-oriented applications  
 
 ---
 
-### 🤖 AI & Data Science
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+## Technical Stack
 
-**Applied ML:** Deep Q-Learning, Supervised Learning, Model Evaluation, Data Cleaning & Feature Engineering
+### Languages
+Kotlin • Python • Dart • Java • C++ • SQL • JavaScript  
 
----
+### Frameworks & Libraries
+Jetpack Compose • Flutter • Retrofit • Room • TensorFlow  
 
-### 🛠 Software Engineering & Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+### Engineering Concepts
+OOP • SOLID • Clean Architecture • REST APIs • SDLC • State Management  
 
-Version Control • API Testing • Agile Workflows • Debugging & Performance Optimization
+### Tools
+Android Studio • Firebase • Git • Power BI • Postman  
 
 ---
 
-## ⭐ Featured Projects
+## Professional Experience
 
-### 🧾 [MilkCheque App](https://github.com/malakmahersoliman/MilkCheque)
-Android bill-splitting and digital menu system built using **Kotlin, Jetpack Compose, and Hilt**.  
-Focused on modular architecture, clean UI state management, and dependency injection.
+### Banque Misr — Kotlin Developer Intern
+Built Android applications (BrewBuddy & RecipeBox) using:
+Kotlin • MVVM • Retrofit • Room  
+Focused on UI performance, data validation, and structured architecture.
 
----
+### eKhales (E-Finance Group) — Software Engineering Intern
+Applied OOP, SOLID principles, and design patterns to develop:
+MilkCheque — Kotlin-based digital menu & split-bill system.
 
-### ☕ [Coffee Shop App](https://github.com/malakmahersoliman/coffee_shop)
-Cross-platform Flutter application with **Firebase Authentication & Firestore integration**.  
-Designed to enhance customer experience through intuitive UI and real-time backend connectivity.  
-🎥 Demo: https://youtube.com/shorts/th72EZcCRW4?feature=shared
+### CIB — FutureVest & IT Trainee
+Exposure to sustainability innovation, IT operations,
+and cybersecurity rotation within a banking environment.
 
----
-
-### 📚 [RecipeBox](https://github.com/KarimmYasser/recipe-box)
-Jetpack Compose recipe manager using **Room, Retrofit, and MVVM architecture**.  
-Implemented local caching, API synchronization, and lifecycle-aware components.
-
----
-
-### 🎮 [Chicken Invaders AI](https://github.com/noah-mclain/fera5-invaders)
-Deep Q-Learning agent built with **Python & TensorFlow**.  
-Designed reinforcement learning pipeline enabling autonomous gameplay decision-making.
+### NTI — Machine Learning Trainee
+120-hour competitive ML program (90 technical + 30 freelancing)  
+Final Score: 98.5%
 
 ---
 
-## 📊 GitHub Analytics
+## Selected Projects
 
-![](https://github-readme-stats.vercel.app/api?username=malakmahersoliman&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=malakmahersoliman&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=malakmahersoliman&layout=compact&theme=tokyonight&hide_border=true)
+### MilkCheque App
+Kotlin • Jetpack Compose • Hilt • Room • Retrofit  
+Offline-first Android application for digital menus and payment splitting
+with modular UI architecture.
 
----
+### Chicken Invaders AI
+Python • TensorFlow • Pygame  
+Reinforcement Learning agent trained using Deep Q-Learning
+to autonomously play the game.
 
-## 🏆 Professional Experience
+### Coffee Shop App
+Flutter • Firebase Authentication  
+Secure login system with modern UI and responsive UX design.
 
-- Kotlin Developer Intern – **Banque Misr**
-- FinTech Intern – **eKhales (E-Finance Group)**
-- Banking Technology Exposure – **CIB**
-
-Worked on fintech systems, secure workflows, mobile architecture, and performance optimization.
-
----
-
-## 🎓 Certifications & Achievements
-
-- 🧠 NTI Machine Learning Summer Training – 98.5% (Certificate of Excellence)
-- 📈 Focused on real-world AI deployment and practical ML pipelines
+### Pet Adoption Website
+PHP • MySQL • JavaScript  
+Full CRUD web system with authentication and responsive layout.
 
 ---
 
-## 🎯 Long-Term Vision
+## Academic & Competitive Highlights
 
-To design **secure, scalable intelligent systems** that merge mobile technology, financial infrastructure, and machine learning.
+• ECPC 2024 Qualifiers — Rank 64  
+• AI Summer School — UAB Spain (2024)  
+• AI & Cybersecurity — Arab League & Universidad de Salamanca  
+• Data Analysis Training — MICT Egypt  
 
 ---
 
-📫 Contact: malakmaher272@gmail.com  
+## Current Direction
+
+Deepening expertise in:
+• Advanced Android architecture  
+• Applied machine learning systems  
+• Automation & intelligent agents  
+• Scalable fintech infrastructure  
 
 ---
 
-> Code with purpose. Design with clarity. Build with impact.
+Contact: malakmahersoliman@gmail.com  
+GitHub: github.com/malakmahersoliman
