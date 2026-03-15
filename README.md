@@ -148,4 +148,3 @@ Still curious. 😌✨
 
 Email: malakmahersoliman@gmail.com  
 LinkedIn: https://www.linkedin.com/in/malakmahersoliman/  
-GitHub: https://github.com/malakmahersoliman
