@@ -132,14 +132,6 @@ Full CRUD web platform with authentication and responsive design.
 • Data Analysis Training — MICT Egypt  
 
 ---
-
-## Current Direction 🫣
-
-• Advanced Android architecture mastery  
-• Machine learning systems & intelligent agents  
-• Automation-driven software  
-• Scalable fintech infrastructure  
-
 Still learning.  
 Still building.  
 Still curious. 😌✨  
