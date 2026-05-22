@@ -94,11 +94,6 @@ Git • GitHub • Postman • Swagger • Docker • PowerBI
 
 ## Experience
 
-### Digital Business Systems — Intern
-
-Gaining practical exposure to enterprise software, business systems, professional workflows, and real-world software delivery.
-
----
 
 ### Banque Misr — Kotlin Developer Intern
 
