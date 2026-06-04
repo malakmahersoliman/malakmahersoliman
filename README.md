@@ -1,196 +1,139 @@
-<!-- GitHub Profile README for Malak Maher -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,45:1B2A6B,100:F7D774&height=130&section=header&text=Malak%20Maher&fontColor=FFFFFF&fontSize=36&animation=fadeIn&fontAlignY=55" />
 
-# Malak Maher ✨
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7D774&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Malak+%F0%9F%8C%99;Backend+%26+Full-Stack+Developer;C%23+%7C+ASP.NET+Core+%7C+Angular;Fintech+%7C+Real+Systems+%7C+Clean+Architecture;Still+Learning+%E2%80%A2+Still+Building+%E2%80%A2+Still+Curious" alt="Typing SVG" />
+</div>
 
-Final-year Computer Science Student — AAST Smart Village  
-Dual Degree with the University of Northampton  
-GPA: 3.57 / 4.0  
-
-I am a software engineering student who loves building real systems, not just writing code that works.
-
-I started with mobile development, then moved deeper into software engineering fundamentals, backend development, APIs, databases, and system design.
-
-My current focus is backend and full-stack development, especially with C#, ASP.NET Core Web API, Entity Framework Core, SQL, and Angular.
-
-I am also exploring fintech, machine learning, and automation as applied areas where software can solve real-world problems.
+<br />
 
 ---
 
-## Learning Journey
+## 🌌 About Me
 
-### 1. Mobile Development Foundation
-
-I began by building Android and Flutter applications using Kotlin, Jetpack Compose, Flutter, Firebase, Room, and Retrofit.
-
-This gave me a strong foundation in user-focused applications, UI development, state management, local storage, and API integration.
-
----
-
-### 2. Software Engineering Fundamentals
-
-After that, I focused on writing cleaner and more maintainable software through:
-
-- OOP
-- SOLID principles
-- Clean Architecture
-- REST API design
-- Git and GitHub workflow
-- validation
-- database relationships
-
-This stage helped me think more about structure, scalability, and long-term maintainability.
+```txt
+Backend & full-stack developer, growing through real systems.
+Started with mobile, went deeper — APIs, databases, authentication,
+business logic, clean architecture, and fintech.
+Currently building with C#, ASP.NET Core, SQL Server, and Angular.
+```
 
 ---
 
-### 3. Current Focus — Backend & Full-Stack Development
+## 🧭 Current Focus
 
-I am currently building stronger backend and full-stack skills using:
+```yaml
+Backend:
+  - ASP.NET Core Web API
+  - Entity Framework Core + SQL Server
+  - REST APIs · CQRS · MediatR · FluentValidation
 
-- C#
-- ASP.NET Core Web API
-- Entity Framework Core
-- SQL Server
-- CQRS
-- MediatR
-- FluentValidation
-- Angular
+Frontend:
+  - Angular · Reactive Forms · Routing · Auth Flows
 
-My goal is to understand how APIs, databases, validation, authentication, business logic, and frontend forms work together in real applications.
-
----
-
-### 4. Applied Interests
-
-I am exploring applied software areas through real projects:
-
-- fintech systems
-- payroll and wallet logic
-- machine learning
-- automation workflows
-
-My graduation project, Payramid, connects backend engineering with fintech concepts such as payroll processing, wallet logic, transaction records, audit logs, and secure system design.
+Building:
+  - Store Management Dashboard
+  - Fintech payroll systems
+  - Real-world API features
+```
 
 ---
 
-## Skills Snapshot
+## 🛠️ Tech Stack
 
-### Main Current Focus
+<div align="center">
 
-C# • ASP.NET Core Web API • Entity Framework Core • SQL Server • REST APIs • CQRS • MediatR • FluentValidation • Angular
+### Backend & Full-Stack
+![C#](https://img.shields.io/badge/C%23-0B1026?style=for-the-badge&logo=csharp&logoColor=F7D774)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1B2A6B?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-243B80?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-102A43?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-8B1E3F?style=for-the-badge&logo=angular&logoColor=white)
 
-### Previous Strong Foundation
+### Mobile Foundation
+![Kotlin](https://img.shields.io/badge/Kotlin-3B2F80?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-0B1026?style=for-the-badge&logo=android&logoColor=F7D774)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1F4068?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-1B4965?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F7D774?style=for-the-badge&logo=firebase&logoColor=0B1026)
 
-Kotlin • Android • Jetpack Compose • Flutter • Firebase • Room • Retrofit
+### AI, Data & Tools
+![Python](https://img.shields.io/badge/Python-243B55?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F2994A?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-5C2E7E?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-16324F?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-E76F51?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-1B2A6B?style=for-the-badge&logo=swagger&logoColor=white)
 
-### Supporting Knowledge
-
-Python • Machine Learning • TensorFlow • Pandas • NumPy • Data Analysis
-
-### Tools & Workflow
-
-Git • GitHub • Postman • Swagger • Docker • PowerBI
-
----
-
-## Experience
-
-
-### Banque Misr — Kotlin Developer Intern
-
-Built Android applications including BrewBuddy and RecipeBox using Kotlin, MVVM, Retrofit, and Room.
-
-Focused on UI performance, validation logic, data persistence, and maintainable mobile architecture.
-
----
-
-### eKhales — E-Finance Group — Software Engineering Intern
-
-Developed MilkCheque, a Kotlin-based digital menu and split-bill system.
-
-Applied OOP and SOLID principles to improve structure and maintainability.
+</div>
 
 ---
 
-### CIB — FutureVest & IT Trainee
+## ✨ Featured Projects
 
-Gained exposure to banking systems, IT operations, cybersecurity concepts, and financial technology environments.
-
----
-
-### NTI — Machine Learning Trainee
-
-Completed a 120-hour Machine Learning program.
-
-Final Score: 98.5%
-
-Worked on preprocessing, feature engineering, model training, evaluation pipelines, and practical ML implementation.
-
----
-
-## Projects
-
-### Payramid
-
-Fintech • Payroll • Backend APIs • Hyperledger Fabric • Wallet Logic
-
-Graduation project focused on secure salary distribution, payroll batch processing, wallet logic, transaction records, audit logs, and fintech system design.
-
----
-
-### Product API / CQRS Practice Projects
-
-ASP.NET Core • EF Core • MediatR • FluentValidation • SQL Server
-
-Backend practice projects focused on REST APIs, validation pipelines, DTOs, entity relationships, migrations, and clean backend organization.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏦 Payramid</h3>
+      <p><b>Fintech · Payroll · Wallet Logic · Backend APIs</b></p>
+      <p>Secure payroll distribution, salary batches, wallet logic, transaction records, audit logs, and fintech system design.</p>
+    </td>
+    <td width="50%">
+      <h3>🛒 Store Management Dashboard</h3>
+      <p><b>ASP.NET Core · Angular · EF Core · SQL Server · CQRS</b></p>
+      <p>Full-stack mini Sales ERP — products, orders, cart, auth, role-based access, statistics, filtering, pagination, and validation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🥛 MilkCheque</h3>
+      <p><b>Kotlin · Jetpack Compose · Room · Retrofit</b></p>
+      <p>Offline-first Android system for digital menus and split payments.</p>
+    </td>
+    <td width="50%">
+      <h3>🕌 Sakina App</h3>
+      <p><b>Android · Jetpack Compose · Hilt · Room · DataStore</b></p>
+      <p>Prayer-related features, animation, testing, and deployment for a published Android application.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### MilkCheque App
+## 💼 Experience
 
-Kotlin • Jetpack Compose • Room • Retrofit
-
-Offline-first Android system for digital menus and split payments.
-
----
-
-### Sakina App
-
-Android • Jetpack Compose • Hilt • Room • DataStore
-
-Contributed to prayer-related features, animation, testing, and deployment for a published Android application.
+| Place | Role | Focus |
+|---|---|---|
+| Banque Misr | Kotlin Developer Intern | Android apps, MVVM, Retrofit, Room |
+| eKhales — E-Finance Group | Software Engineering Intern | MilkCheque, OOP, SOLID, app structure |
+| CIB | FutureVest & IT Trainee | Banking systems, IT, cybersecurity, fintech |
+| NTI | Machine Learning Trainee | ML pipelines, preprocessing, model evaluation |
 
 ---
 
-### Chicken Invaders AI
+## 🏆 Highlights
 
-Python • TensorFlow • Pygame
-
-Deep Q-Learning reinforcement learning agent trained to play autonomously.
-
----
-
-## Highlights
-
-- ECPC 2024 Qualifiers — Rank 64
-- AI Summer School — UAB Spain
-- AI & Cybersecurity — Arab League & Universidad de Salamanca
-- NTI Machine Learning Training — Final Score: 98.5%
-- Data Analysis Training — MICT Egypt
+```txt
+ECPC 2024 Qualifiers — Rank 64
+NTI Machine Learning Training — Final Score: 98.5%
+AI Summer School — UAB Spain
+AI & Cybersecurity — Arab League × Universidad de Salamanca
+Data Analysis Training — MICT Egypt
+```
 
 ---
+<div align="center">
 
-## Current Direction
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7D774&center=true&vCenter=true&width=760&height=60&fontSize=16&lines=%22I+build+to+understand.+I+learn+to+build+better.%22;%22What+is+made+in+love+is+done+well.%22+%E2%80%94+Van+Gogh" alt="Closing quote" />
 
-I am growing from a mobile-focused developer into a backend and full-stack software engineer.
+<br />
 
-I am not trying to learn everything at once.  
-I am building my skills in stages, using each project to strengthen a specific part of my engineering foundation.
+## 🔗 Let's Connect
 
-Still learning.  
-Still building.  
-Still curious. 😌✨
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak_Maher-1B2A6B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malakmahersoliman/)
+[![Email](https://img.shields.io/badge/Email-malakmaher272%40gmail.com-F7D774?style=for-the-badge&logo=gmail&logoColor=0B1026)](mailto:malakmaher272@gmail.com)
 
----
+<br />
 
-Email: malakmahersoliman@gmail.com  
-LinkedIn: https://www.linkedin.com/in/malakmahersoliman/
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7D774,45:1B2A6B,100:0B1026&height=100&section=footer" />
