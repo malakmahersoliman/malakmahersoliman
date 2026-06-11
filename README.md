@@ -130,7 +130,7 @@ Data Analysis Training — MICT Egypt
 ## 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak_Maher-1B2A6B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malakmahersoliman/)
-[![Email](https://img.shields.io/badge/Email-malakmaher272%40gmail.com-F7D774?style=for-the-badge&logo=gmail&logoColor=0B1026)](mailto:malakmaher272@gmail.com)
+[![Email](https://img.shields.io/badge/Email-malakmahersoliman%40gmail.com-F7D774?style=for-the-badge&logo=gmail&logoColor=0B1026)](mailto:malakmaher272@gmail.com)
 
 <br />
 
