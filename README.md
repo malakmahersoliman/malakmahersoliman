@@ -74,7 +74,7 @@ Building:
   <tr>
     <td width="50%">
       <h3>🏦 Payramid</h3>
-      <p><b>Fintech · Payroll · Wallet Logic · Backend APIs</b></p>
+      <p><b>Fintech · Payroll · Wallet Logic · Backend</b></p>
       <p>Secure payroll distribution, salary batches, wallet logic, transaction records, audit logs, and fintech system design.</p>
     </td>
     <td width="50%">
