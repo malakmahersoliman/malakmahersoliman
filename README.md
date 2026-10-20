@@ -14,15 +14,15 @@
 </div>
 
 
-🌌 A little about me
-I love figuring out how technology works behind the scenes — and turning that curiosity into software that solves real problems.
-- 💻 At heart: Backend engineering, thoughtful system design, and understanding the why behind technical decisions.
-- 🏦 Especially curious about: Banking, payments, and the systems that make financial transactions reliable.
-- 🌱 Growing with: Java, Spring Boot, PostgreSQL, and the fundamentals of dependable backend services.
-- 📱 My journey so far: Mobile development → hands-on full-stack work with .NET + Angular → deeper backend engineering.
-- ✨ My favorite way to learn: Understand it. Build it. Break it. Make it better.
+🌌 A Little About Me
+I love figuring out how technology works behind the scenes — and turning that curiosity into something people can actually use.
+- 💻 What excites me: Backend engineering, thoughtful system design, and understanding the why behind technical decisions.
+- 🏦 Where my curiosity goes: Banking & FinTech — from payments and transfers to the systems that make them reliable.
+- 🌱 Currently exploring: Java, Spring Boot, PostgreSQL, and building dependable backend services.
+- 📱 My journey: Mobile development → hands-on full-stack experience with .NET & Angular → deeper backend engineering.
+- ✨ How I love to learn: Understand it. Build it. Break it. Make it better.
 
-🛠️ Things I build with
+🛠️ My Toolbox
 <div align="center">
 
 Backend & Web
